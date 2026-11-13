@@ -1,4 +1,4 @@
-:root{--ink:#111;--sub:#5c5c62;--card:#f2f2f7;--line:#e5e5ea;--accent:#ffc71a}
+:root{--ink:#111;--sub:#5c5c62;--card:#f2f2f7;--line:#e5e5ea;--accent:#ff5b1f}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:#fff;color:var(--ink);font:17px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
